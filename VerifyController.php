@@ -4,7 +4,7 @@
  *  Date: 11-Jan-2013
  *  Version: 1.7.2.1
  */ 
-class VerifyControllera
+class VerifyControllerDemo
 {
     public $postVars;
     public $getVars;
